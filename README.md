@@ -1,2 +1,2 @@
 # carl-laffan-architecture
-Carl's boody of work and CV
+Carl's body of work and CV
