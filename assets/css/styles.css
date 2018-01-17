@@ -1,3 +1,11 @@
 .projectList { 
     display: none;
 }
+
+.selected {
+    color: grey;
+}
+
+.done {
+    color: blue;
+}
