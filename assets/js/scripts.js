@@ -23,3 +23,9 @@ for(var i = 0; i < lis.length; i++) {
         this.classList.remove("selected");
     });
 }
+
+// image gallerys
+var blackWater = [];
+var culturalQ = [];
+var socialHousing = [];
+var resume = [];
